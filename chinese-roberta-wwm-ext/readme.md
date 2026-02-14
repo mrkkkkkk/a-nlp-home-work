@@ -1,1 +1,1 @@
-https://huggingface.co/hfl/chinese-roberta-wwm-ext
+下载地址:https://huggingface.co/hfl/chinese-roberta-wwm-ext
